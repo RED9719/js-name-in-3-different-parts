@@ -1,4 +1,9 @@
 # js-name-in-3-different-parts
+Develop and demonstrate a HTML file that includes JavaScript script for taking full name in a 
+text field and display first, middle, last name *in 3 different labels. Middle and last name may be 
+optional, thus messages like "NA" should be displayed in corresponding labels. If input contains 2 
+words, then they should be considered as first and last names. 
+
 <!DOCTYPE html>
 <html>
 <head>
